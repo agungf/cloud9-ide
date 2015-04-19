@@ -22,7 +22,7 @@ Download automated build from public Docker Hub Registry:
 
 alternatively, you can build an image from Dockerfile:
 
-    docker build -t="$USER/cloud9-ide" github.com/agungf/cloud9-docker
+    docker build -t="$USER/cloud9-ide" github.com/agungf/cloud9-ide
     
     
 ## Basic Usage
